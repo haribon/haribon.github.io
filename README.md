@@ -1,2 +1,1 @@
-# haribon.github.io
-Haribon website.
+# Haribon is a lightweight PHP framework.
